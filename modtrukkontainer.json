@@ -11,7 +11,7 @@
       "show_post_detail_image": true,
       "show_post_detail_title": true,
       "show_post_detail_category": true,
-      "show_related_posts": true,
+      "show_related_posts": false,
       "enable_rtl_mode": false,
       "enable_exit_dialog": true,
       "enable_app_protection": false,
