@@ -40,7 +40,7 @@
       "unity_game_id": "4089993",
       "unity_banner_placement_id": "banner",
       "unity_interstitial_placement_id": "video",
-      "applovin_banner_unit_id": "//c1a091d566a198cd",
+      "applovin_banner_unit_id": "c1a091d566a198cd",
       "applovin_interstitial_unit_id": "247965ab4153b9a3",
       "applovin_native_manual_unit_id": "//cae3c640f4dccfe9",
       "applovin_open_ad_unit_id": "492da78063f5415a",
@@ -62,7 +62,7 @@
       "show_interstitial_ad_post_details": true,
       "show_native_ad_post_list": true,
       "show_native_ad_post_details": true,
-      "show_app_open_ad": false
+      "show_app_open_ad": true
     }
   ],
   "categories": [
